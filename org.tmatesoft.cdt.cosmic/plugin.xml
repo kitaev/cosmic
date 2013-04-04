@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension point="org.eclipse.cdt.core.language">
+        <language
+      		class="org.tmatesoft.cdt.cosmic.CosmicLanguage"
+      		id="cosmic-gnu-c"
+      		name="GNU C">
+   		<contentType id="org.eclipse.cdt.core.cSource"/>
+   		<contentType id="org.eclipse.cdt.core.cHeader"/>
+		</language>
+   </extension>
+</plugin>

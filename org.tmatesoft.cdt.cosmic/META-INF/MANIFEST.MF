@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Cosmic CDT Extension
+Bundle-SymbolicName: org.tmatesoft.cdt.cosmic;singleton:=true
+Bundle-Version: 1.0.0.beta2
+Bundle-Activator: org.tmatesoft.cdt.cosmic.Activator
+Bundle-Vendor: TMate Software
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.cdt.core;bundle-version="5.4.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy

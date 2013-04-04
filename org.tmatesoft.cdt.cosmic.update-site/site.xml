@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.tmatesoft.cdt.cosmic_1.0.0.beta2.jar" id="org.tmatesoft.cdt.cosmic" version="1.0.0.beta2"/>
+</site>
